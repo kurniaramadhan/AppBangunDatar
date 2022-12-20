@@ -1,0 +1,8 @@
+# Compiled class file
+*.class
+
+# Folder maven target
+*/target/*
+
+# Main App
+MainApp.java
